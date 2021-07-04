@@ -1,0 +1,12 @@
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/bin/Debug/net5.0/Bilbayt.Domain.deps.json
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/bin/Debug/net5.0/Bilbayt.Domain.dll
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/bin/Debug/net5.0/ref/Bilbayt.Domain.dll
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/bin/Debug/net5.0/Bilbayt.Domain.pdb
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.csproj.AssemblyReference.cache
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.AssemblyInfoInputs.cache
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.AssemblyInfo.cs
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.csproj.CoreCompileInputs.cache
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.dll
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/ref/Bilbayt.Domain.dll
+/Users/valentineazom/Projects/BilbaytTestSolution/Bilbayt.Domain/obj/Debug/net5.0/Bilbayt.Domain.pdb
